@@ -1,1 +1,1 @@
-# build-full-stack-app
+# build full stack app using spring boot and thymeleaf
